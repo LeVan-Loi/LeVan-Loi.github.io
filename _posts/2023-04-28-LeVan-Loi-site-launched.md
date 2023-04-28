@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "LeVan Loi, Horrible Cop, Launches Site"
+title: "Lê Văn Lợi, Horrible Cop, Launches Site"
 date: 2023-04-28
 ---
 
