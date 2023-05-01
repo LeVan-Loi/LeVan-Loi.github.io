@@ -5,6 +5,7 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Lê Văn Lợi's Blog</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="http://LeVan-Loi.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://LeVan-Loi.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
